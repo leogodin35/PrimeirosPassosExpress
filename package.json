@@ -1,0 +1,22 @@
+{
+  "name": "primeirospassosexpress",
+  "version": "1.0.0",
+  "description": "Primeiros passos com Express para Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leogodin35/PrimeirosPassosExpress.git"
+  },
+  "author": "Leonardo Godinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leogodin35/PrimeirosPassosExpress/issues"
+  },
+  "homepage": "https://github.com/leogodin35/PrimeirosPassosExpress#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
