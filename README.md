@@ -4,7 +4,9 @@ Primeiros passos com Express para Node.js
 
 > npm i express --save
 
-Criar aqruivo app.js
+Criar arquivo app.js
+
+Criar as rotas
 
 
 
